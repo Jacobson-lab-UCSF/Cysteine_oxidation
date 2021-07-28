@@ -1,4 +1,4 @@
-# Analysis of Cysteines
+# Analysis of Cysteines' environment
 
 ## Finding Neighbors in the PDB
 
